@@ -75,6 +75,14 @@ Table of Contents
    :numbered:
 
    introduction.rst
+   setupenv.rst
+   bsp.rst
+   bootmedia.rst
+   functionality.rst
+   debug.rst
+   qa.rst
+   limitations.rst
+   gpioregs.rst
 
 Indices and tables
 ==================
